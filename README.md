@@ -2,6 +2,7 @@
 - 👀 I’m interested in software develop, specifically in the devops and ML/AI realm.
 - 🌱 I’m always learning new skills, but currently studying for the CompTIA Linux+ cert.
 - 🕸️ Check out my very primitive website https://ai-me.tech/
+- 🐶 I love my dog more than myself.
 
 <br/>
 
@@ -10,6 +11,7 @@
     <tr>
         <th>My Website</th>
         <th>My CV</th>
+        <th>My Chicken</th>
     </tr>
     <tr>
         <td>
@@ -17,6 +19,9 @@
         </td>
         <td>
             <a href="https://ai-me.tech/resume.html">📓</a>
+        </td>
+        <td>
+            <img src="https://user-images.githubusercontent.com/58920810/214652346-7e6cba80-941d-4d6d-abe9-5804990c1b4d.png" width="100" height="120"/>
         </td>
     </tr>
 </table>
