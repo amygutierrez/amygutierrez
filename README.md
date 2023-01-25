@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @amygutierrez
 - 👀 I’m interested in software develop, specifically in the devops and ML/AI realm.
 - 🌱 I’m always learning new skills, but currently studying for the CompTIA Linux+ cert.
-- 📫 How to reach me: amygutierrez-ai@outlook.com
 - 🕸️ Check out my very primitive website https://ai-me.tech/
 
 <br/>
@@ -89,22 +88,6 @@
 </table>
 
 
-
-
-<!--
-**colinbut/colinbut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!---
 amygutierrez/amygutierrez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
