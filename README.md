@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amygutierrez
-- 👀 I’m interested in software develop, specifically in the devops and ML/AI realm.
+- 👀 I’m interested in software development, specifically in the devops and ML/AI realm.
 - 🌱 I’m always learning new skills, but currently studying for the CompTIA Linux+ cert.
 - 🕸️ Check out my very primitive website https://ai-me.tech/
 - 🐶 I love my dog more than myself.
