@@ -78,7 +78,7 @@
 ### Support my Work
 <br/>
 <a href="https://www.buymeacoffee.com/amygutierrez"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
-<p> All proceeds will go to my coffee habit </p>
+<p> Click on the image above to support me and my work. All proceeds will go to fueling my coffee habit </p>
 
 <br />
 
