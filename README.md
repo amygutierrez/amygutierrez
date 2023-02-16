@@ -33,6 +33,9 @@
 <a href="https://github.com/amygutierrez"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/amy-gutierrez-1b2014125/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="40" height="40"/></a>
 
+## Projetcs
+I'm currently a collaborator for the organization <a href="https://github.com/FCP-INDI"/>FCP-INDI</a> where I develop and debug the software package C-PAC. To view my work on these projects, check my pinned repositories.
+
 ### Toolset
 
 <table>
