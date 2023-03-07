@@ -69,7 +69,7 @@ I'm currently a collaborator for the organization <a href="https://github.com/FC
         <td>SysOps</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg" width="70" height="60"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg" width="80" height="60"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" width="60" height="60"/></a>
         </td>
     </tr>
