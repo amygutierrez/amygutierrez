@@ -78,14 +78,14 @@ I'm currently a collaborator for the organization <a href="https://github.com/FC
 
 <br/>
 
-### Support my Work
+## Support my Work
 <br/>
 <a href="https://www.buymeacoffee.com/amygutierrez"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
 <p> Click on the image above to support me and my work. All proceeds will go to fueling my coffee habit </p>
 
 <br />
 
-### My GitHub Stats
+## My GitHub Stats
 
 <table>
     <tr>
