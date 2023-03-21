@@ -92,6 +92,9 @@ I'm currently a collaborator for the organization <a href="https://github.com/FC
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=amygutierrez&show_icons=true&theme=radical"/>
         </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amygutierrez&layout=compact"/>
+        </td>
     </tr>
 </table>
 
