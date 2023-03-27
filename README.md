@@ -81,24 +81,26 @@ I'm currently a collaborator for the organization <a href="https://github.com/FC
 ## Support my Work
 <br/>
 <a href="https://www.buymeacoffee.com/amygutierrez"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
-<p> Click on the image above to support me and my work. All proceeds will go to fueling my coffee habit </p>
+<p> Click on the image above or the button at the bottom to support me and my work. All proceeds will go to fueling my coffee habit </p>
 
 <br />
 
 ## My GitHub Stats
 
-<table>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=amygutierrez&show_icons=true&theme=radical"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amygutierrez&layout=compact"/>
-        </td>
-    </tr>
-</table>
-
-
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=amygutierrez&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=amygutierrez&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=amygutierrez&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+    <b>SUPPORT MY WORK</b>
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/amygutierrez"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="amygutierrez" /></a>
+    <br>
+    <br>
+    <i>All proceeds will feed my coffee habit</i>
+</p>
 
 <!---
 amygutierrez/amygutierrez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
