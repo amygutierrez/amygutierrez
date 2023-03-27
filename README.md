@@ -1,7 +1,7 @@
 ## About Me
 
 - 👋 Hi, I’m @amygutierrez
-- 👀 I’m interested in software development, specifically in the devops and ML/AI realm.
+- 👀 I’m a software developer for <a href="https://github.com/FCP-INDI">CPAC</a>. I specialize in DevOps and ML/AI.
 - 🌱 I’m always learning new skills, but currently studying for the CompTIA Linux+ cert.
 - 🕸️ Check out my very primitive website https://ai-me.tech/
 - 🐶 I love my dog more than myself.
