@@ -1,20 +1,28 @@
 <div align="center" width="50">
 
-## About Me
+## About me <img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/fc364b02-5ed9-423a-8557-eb05c671185b" height="50">
+
 
 <img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/94248dcd-e4d4-4d23-a223-698d0082da32" alt="Welcome!" height="300"/>
 
 👋 Hi, I’m @amygutierrez
 
-Scientifc Computing Engineer for Booz Allen Hamilton and formerly a software developer for <a href="https://github.com/FCP-INDI">C-PAC</a>. I specialize in ML/AI and DevOps
+Scientifc Computing Engineer for Booz Allen Hamilton and formerly a software developer for <a href="https://github.com/FCP-INDI">C-PAC</a>. I specialize in ML/AI and DevOps.
+
+My contributions to public repositories are my own and not affiliated with Booz Allen Hamilton
+
+✨ <b>open source enthusiast </b> ✨
 
 
-### Contact me:
+
+### Contact me: 
 
 <a href="https://github.com/amygutierrez"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/amy-gutierrez-1b2014125/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="40" height="40"/></a>
 
-## Toolset
+<br>
+
+## Toolset <img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/fc364b02-5ed9-423a-8557-eb05c671185b" height="50">
 
 <table>
     <tr>
@@ -56,7 +64,8 @@ Scientifc Computing Engineer for Booz Allen Hamilton and formerly a software dev
 
 <br/>
 
-## My GitHub Stats
+## My GitHub Stats <img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/fc364b02-5ed9-423a-8557-eb05c671185b" height="50">
+<br>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=amygutierrez&show_icons=true&count_private=true&theme=bear&hide_border=true&hide=issues,contribs&bg_color=00000000">
