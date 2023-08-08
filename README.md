@@ -1,33 +1,12 @@
+<div align="center" width="50">
+
 ## About Me
 
-- 👋 Hi, I’m @amygutierrez
-- 👀 I’m a software developer for <a href="https://github.com/FCP-INDI">CPAC</a>. I specialize in DevOps and ML/AI.
-- 🌱 I’m always learning new skills, but currently studying for the CompTIA Linux+ cert.
-- 🕸️ Check out my very primitive website https://ai-me.tech/
-- 🐶 I love my dog more than myself.
+<img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/94248dcd-e4d4-4d23-a223-698d0082da32" alt="Welcome!" height="300"/>
 
-<br/>
+👋 Hi, I’m @amygutierrez
 
-
-<table>
-    <tr>
-        <th>My Website</th>
-        <th>My CV</th>
-        <th>My Chicken</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://ai-me.tech/">🌐</a>
-        </td>
-        <td>
-            <a href="https://ai-me.tech/resume.html">📓</a>
-        </td>
-        <td>
-            <img src="https://user-images.githubusercontent.com/58920810/214652346-7e6cba80-941d-4d6d-abe9-5804990c1b4d.png" width="100" height="120"/>
-        </td>
-    </tr>
-</table>
-
+Scientifc Computing Engineer for Booz Allen Hamilton and formerly a software developer for <a href="https://github.com/FCP-INDI">C-PAC</a>. I specialize in ML/AI and DevOps
 
 
 ### Contact me:
@@ -35,10 +14,7 @@
 <a href="https://github.com/amygutierrez"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/amy-gutierrez-1b2014125/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="40" height="40"/></a>
 
-## Projetcs
-I'm currently a collaborator for the organization <a href="https://github.com/FCP-INDI"/>FCP-INDI</a> where I develop and debug the software package C-PAC. To view my work on these projects, check my pinned repositories.
-
-### Toolset
+## Toolset
 
 <table>
     <tr>
@@ -94,7 +70,7 @@ I'm currently a collaborator for the organization <a href="https://github.com/FC
   <a href="https://www.buymeacoffee.com/amygutierrez"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="amygutierrez" /></a>
     <br>
     <br>
-    <i>All proceeds will feed my coffee habit</i>
+    <i>All proceeds will feed my coffee addiction</i>
 </p>
 
 <!---
