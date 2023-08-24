@@ -22,44 +22,29 @@ My contributions to public repositories are my own and not affiliated with Booz 
 
 <br>
 
-## Toolset <img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/fc364b02-5ed9-423a-8557-eb05c671185b" height="50">
+## Technologies <img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/fc364b02-5ed9-423a-8557-eb05c671185b" height="50">
 
-<table>
-    <tr>
-        <td>Developer Tools</td>
-        <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" width="90" height="60"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/linux/linux-original.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/></a>
-        </td>
-  </tr>
-    <tr>
-        <td>Programming Languages</td>
-        <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" width="60" height="60"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>IDEs</td>
-        <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" height="50"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" width="90" height="60"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>SysOps</td>
-        <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg" width="80" height="60"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" width="60" height="60"/></a>
-        </td>
-    </tr>
-</table>
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![BASH](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=for-the-badge&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![iTerm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![Git Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 <br/>
