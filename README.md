@@ -3,7 +3,7 @@
 ## About me <img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/fc364b02-5ed9-423a-8557-eb05c671185b" height="50">
 
 
-<img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/94248dcd-e4d4-4d23-a223-698d0082da32" alt="Welcome!" height="300"/>
+<!--- <img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/94248dcd-e4d4-4d23-a223-698d0082da32" alt="Welcome!" height="300"/> --->
 
 👋 Hi, I’m @amygutierrez
 
