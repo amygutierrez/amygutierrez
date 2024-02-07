@@ -7,7 +7,7 @@
 
 👋 Hi, I’m @amygutierrez
 
-Scientifc Computing Engineer for Booz Allen Hamilton and formerly a software developer for <a href="https://github.com/FCP-INDI">C-PAC</a>. I specialize in ML/AI and DevOps.
+Machine Learning Engineer for Booz Allen Hamilton and formerly a software developer for <a href="https://github.com/FCP-INDI">C-PAC</a>. I specialize in AI/ML and DevOps.
 
 My contributions to public repositories are my own and not affiliated with Booz Allen Hamilton or other organizations unless explicitly stated.
 
