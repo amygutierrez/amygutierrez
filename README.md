@@ -67,6 +67,8 @@ My contributions to public repositories are my own and not affiliated with Booz 
     <i>All proceeds will feed my coffee addiction</i>
 </p>
 
+<br/>
+
 ## Badges <img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/fc364b02-5ed9-423a-8557-eb05c671185b" height="50">
 <div align="left">
   <a href="https://www.credly.com/badges/acad9d89-ce6f-459f-a781-760ea651b604/public_url">
