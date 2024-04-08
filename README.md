@@ -68,7 +68,23 @@ My contributions to public repositories are my own and not affiliated with Booz 
 </p>
 
 ## Badges <img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/fc364b02-5ed9-423a-8557-eb05c671185b" height="50">
-<img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/ea04b443-fea9-4158-9762-42afd86efae8" height="150">
+<div align="left">
+  <a href="https://www.credly.com/badges/acad9d89-ce6f-459f-a781-760ea651b604/public_url">
+    <img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/ea04b443-fea9-4158-9762-42afd86efae8" height="180" >
+  </a>
+  <a href="https://www.credly.com/badges/69dd91be-b6c2-4332-9634-9cf0595d3d6f/public_url">
+    <img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/b0447024-745a-442d-b1aa-0dff7b4b4378" height="180" >
+  </a>
+  <a href="https://www.credly.com/badges/b5161846-0f23-4c4f-94b1-ac82a0426d85/public_url">
+    <img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/924faee7-f2e2-42c0-97b3-c1f19c97f740" height="180" >
+  </a>
+  <a href="https://www.credly.com/badges/c80e0f52-fbaf-403f-9388-314ecbb849ec/public_url">
+    <img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/501c5e95-dd5b-4d5d-97cc-af31d4d5a00e" height="180" >
+  </a>
+  <a href="https://www.credly.com/badges/0842ac17-c5d9-4ac8-8f68-1c2baea4f789/public_url">
+    <img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/fb7d7a4a-53ec-417a-87d9-26c1fd53c09c" height="150" >
+  </a>
+</div>
 
 
 <!---
