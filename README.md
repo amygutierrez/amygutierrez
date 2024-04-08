@@ -67,6 +67,10 @@ My contributions to public repositories are my own and not affiliated with Booz 
     <i>All proceeds will feed my coffee addiction</i>
 </p>
 
+## Badges <img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/fc364b02-5ed9-423a-8557-eb05c671185b" height="50">
+<img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/ea04b443-fea9-4158-9762-42afd86efae8" height="150">
+
+
 <!---
 amygutierrez/amygutierrez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
