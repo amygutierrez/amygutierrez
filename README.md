@@ -86,6 +86,9 @@ My contributions to public repositories are my own and not affiliated with Booz 
   <a href="https://www.credly.com/badges/0842ac17-c5d9-4ac8-8f68-1c2baea4f789/public_url">
     <img src="https://github.com/amygutierrez/amygutierrez/assets/58920810/fb7d7a4a-53ec-417a-87d9-26c1fd53c09c" height="150" >
   </a>
+  <a href="https://www.credly.com/badges/10bc1165-9904-415e-9800-d5de9130e15f/public_url">
+    <img src="https://github.com/user-attachments/assets/c9461651-96fc-4505-906a-f6041ef269d1" height="150" >
+  </a>
 </div>
 
 
